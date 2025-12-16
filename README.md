@@ -5,3 +5,6 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 ---
 ## About Me
 
+Hi there! I'm **Lawal Faruq Damilola**.
+I’m a Data Analyst with over five years of experience turning raw data into clear, actionable insights. I help stakeholders understand their data, uncover meaningful patterns, and make informed business decisions that drive real impact.
+
